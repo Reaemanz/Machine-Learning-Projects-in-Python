@@ -2,7 +2,9 @@
 Waiter Tips Prediction
 This is a machine learning project that predicts the tips that a waiter will receive based on various features such as the total bill amount, table size, day of the week, time of day, and more.
 
-Installation
+
+Installation![waiter--](https://user-images.githubusercontent.com/114120637/232763647-5b4e494b-deaa-4438-9eea-879b7bb5da41.jpg)
+
 To install this project, you'll need to have Python 3.x installed on your computer. Then, you can clone the project from GitHub using the following command:
 
 bash
